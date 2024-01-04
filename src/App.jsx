@@ -1,5 +1,4 @@
 import { Canvas } from "@react-three/fiber";
-import { Leva } from "leva";
 import { Experience } from "./components/Experience";
 import { Overlay } from "./components/Overlay";
 
